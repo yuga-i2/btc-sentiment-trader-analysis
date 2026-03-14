@@ -4,6 +4,8 @@
 > **Quantitative Data Science Assignment** — Web3 Trading Firm Submission  
 > Analysis of **211,224 trades** across **32 unique traders** against **2,644 days** of Bitcoin Fear & Greed data.
 
+## 📊 Figures
+All generated visualizations can be found in [`outputs/figures/`](./outputs/figures/)
 ---
 
 ## Table of Contents
